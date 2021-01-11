@@ -1,0 +1,10 @@
+C:\Users\Gloomy\Arquivos\Documentos\Visual Studio 2012\Projects\Cadastro\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Gloomy\Arquivos\Documentos\Visual Studio 2012\Projects\Cadastro\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Gloomy\Arquivos\Documentos\Visual Studio 2012\Projects\Cadastro\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Gloomy\Arquivos\Documentos\Visual Studio 2012\Projects\Cadastro\Cadastro\Cadastro\bin\Debug\MySql.Data.dll
+C:\Users\Gloomy\Arquivos\Documentos\Visual Studio 2012\Projects\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.csprojResolveAssemblyReference.cache
+C:\Users\Gloomy\Arquivos\Documentos\Visual Studio 2012\Projects\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.Form1.resources
+C:\Users\Gloomy\Arquivos\Documentos\Visual Studio 2012\Projects\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\Gloomy\Arquivos\Documentos\Visual Studio 2012\Projects\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.Cache
+C:\Users\Gloomy\Arquivos\Documentos\Visual Studio 2012\Projects\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Gloomy\Arquivos\Documentos\Visual Studio 2012\Projects\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
